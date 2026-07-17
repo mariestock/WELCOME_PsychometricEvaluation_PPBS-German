@@ -9,7 +9,7 @@ It is provided for transparency and reproducibility of the reported analyses. It
 - `PPBS_German_Psychometric_Evaluation_Annotated_Notebook.ipynb`  
   Annotated R/Jupyter notebook containing the analysis code used for the psychometric evaluation.
 
-- `supplementary_materials/`  
+- `Supplementary_Materials/`  
   Additional supplementary tables and figures referenced in the manuscript.
 
 ## Data availability
