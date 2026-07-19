@@ -22,8 +22,6 @@ To run the notebook locally, authorised users need to place the required data fi
 
 All analyses were conducted in R 4.5.0 (R Core Team, 2025) using RStudio Server Professional version 2025.09.2+418.pro4 (Posit team, 2025). The following R packages were used for data management, psychometric analyses, visualisation, and reporting: dplyr, ggplot2, haven, knitr, lavaan, lmtest, psych, purrr, RColorBrewer, semTools, tibble, tidyr, and vioplot.
 
-The annotated notebook contains the analysis code used to reproduce the reported analyses. Individual-level trial data are not publicly shared due to ethical and data protection restrictions.
-
 ## Software references
 
 Posit team. (2025). *RStudio: Integrated Development Environment for R*. Posit Software, PBC. http://www.posit.co/
