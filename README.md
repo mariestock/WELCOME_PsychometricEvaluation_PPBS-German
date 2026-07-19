@@ -1,8 +1,8 @@
 # WELCOME_PsychometricEvaluation_PPBS-German
 
-This repository contains materials related to the psychometric evaluation of the German 5-item Pre- and Postnatal Bonding Scale (PPBS) in the WELCOME trial.
+This repository contains materials related to the psychometric evaluation of the German five-item Pre- and Postnatal Bonding Scale (PPBS) in the WELCOME trial.
 
-It is provided for transparency and reproducibility of the reported analyses. It includes an annotated R/Jupyter notebook with the analysis code and explanatory notes, as well as supplementary materials referenced in the manuscript.
+The repository is provided for transparency and reproducibility of the reported analyses. It includes an annotated R/Jupyter notebook with the analysis code and explanatory notes, as well as supplementary materials referenced in the manuscript.
 
 ## Repository contents
 
@@ -20,7 +20,12 @@ To run the notebook locally, authorised users need to place the required data fi
 
 ## Software and analytic reproducibility
 
-All analyses were conducted in R 4.5.0 (R Core Team, 2025) using RStudio Server Professional version 2025.09.2+418.pro4 (Posit team, 2025). The following R packages were used for data management, psychometric analyses, visualisation, and reporting: dplyr, ggplot2, haven, knitr, lavaan, lmtest, psych, purrr, RColorBrewer, semTools, tibble, tidyr, and vioplot. Analysis code is provided in the accompanying GitHub repository; trial data are not publicly shared due to ethical and data protection restrictions.
+All analyses were conducted in R 4.5.0 (R Core Team, 2025) using RStudio Server Professional version 2025.09.2+418.pro4 (Posit team, 2025). The following R packages were used for data management, psychometric analyses, visualisation, and reporting: dplyr, ggplot2, haven, knitr, lavaan, lmtest, psych, purrr, RColorBrewer, semTools, tibble, tidyr, and vioplot.
 
-- Posit team. (2025). RStudio: Integrated Development Environment for R. In Posit Software, PBC. http://www.posit.co/
-- R Core Team. (2025). R: A Language and Environment for Statistical Computing. In R Foundation for Statistical Computing. https://www.R-project.org/
+The annotated notebook contains the analysis code used to reproduce the reported analyses. Individual-level trial data are not publicly shared due to ethical and data protection restrictions.
+
+## Software references
+
+Posit team. (2025). *RStudio: Integrated Development Environment for R*. Posit Software, PBC. http://www.posit.co/
+
+R Core Team. (2025). *R: A Language and Environment for Statistical Computing*. R Foundation for Statistical Computing. https://www.R-project.org/
