@@ -16,8 +16,6 @@ The repository is provided for transparency and reproducibility of the reported 
 
 Individual-level data containing sensitive demographic or clinical information are not openly available due to ethical and data protection restrictions. Anonymous PPBS and DASS questionnaire responses may be made available upon request to the corresponding author. Aggregated results are reported in the manuscript and supplementary materials available in this repository.
 
-To run the notebook locally, authorised users need to place the required data files in a local, non-versioned `data_raw/` folder and adapt the file paths if necessary.
-
 ## Software and analytic reproducibility
 
 All analyses were conducted in R version 4.5.0 (R Core Team, 2025) using RStudio Server Professional version 2025.09.2+418.pro4 (Posit team, 2025). The following R packages were used for data management, psychometric analyses, visualisation, and reporting: dplyr, ggplot2, haven, knitr, lavaan, lmtest, psych, purrr, RColorBrewer, semTools, tibble, tidyr, and vioplot.
