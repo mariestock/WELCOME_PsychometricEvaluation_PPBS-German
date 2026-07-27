@@ -14,7 +14,7 @@ The repository is provided for transparency and reproducibility of the reported 
 
 ## Data availability
 
-The original WELCOME trial data and the original Dutch validation dataset are not included in this repository due to ethical and data protection restrictions. The repository contains analysis code and aggregated supplementary materials only.
+Individual-level data containing sensitive demographic or clinical information are not openly available due to ethical and data protection restrictions. Anonymous PPBS and DASS questionnaire responses may be made available upon request to the corresponding author. Aggregated results are reported in the manuscript and supplementary materials available in this repository.
 
 To run the notebook locally, authorised users need to place the required data files in a local, non-versioned `data_raw/` folder and adapt the file paths if necessary.
 
